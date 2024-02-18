@@ -54,7 +54,8 @@ const db_username = process.env.DB_USER;
 const db_password = process.env.DB_PASSWORD;
 const db_name = process.env.DB_NAME;
 
-const connectUrl = `mongodb+srv://${db_username}:${db_password}@cluster0.taxmw.mongodb.net/${db_name}?retryWrites=true&w=majority`;
+/* const connectUrl = `mongodb+srv://${db_username}:${db_password}@cluster0.taxmw.mongodb.net/${db_name}?retryWrites=true&w=majority`; */
+const connectUrl = `mongodb+srv://isma:omG1jIzC12_9@cluster0.taxmw.mongodb.net/mern?retryWrites=true&w=majority`;
 const connectConfig = {
   useNewUrlParser: true,
   useUnifiedTopology: true,

@@ -1,8 +1,8 @@
 {
   "env": {
-    "DB_USER": "",
-    "DB_PASSWORD": "",
-    "DB_NAME": "",
-    "JWT_KEY": ""
+    "DB_USER": "isma",
+    "DB_PASSWORD": "omG1jIzC12_9",
+    "DB_NAME": "mern-prod",
+    "JWT_KEY": "b475a1bbd2d74b3ce1c0d519e83e782f"
   }
 }
